@@ -1,0 +1,10 @@
+{
+  "name": "@galenjiang/my-repo-2",
+  "version": "1.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@galenjiang/my-repo-3": "^1.0.1",
+    "@galenjiang/my-repo-4": "^1.0.1"
+  }
+}
